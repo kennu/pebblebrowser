@@ -1,0 +1,19 @@
+{
+  "uuid": "2ce4ff39-a26a-4d32-8c02-fc4e12f92a0f",
+  "shortName": "pebblebrowser",
+  "longName": "pebblebrowser",
+  "companyName": "Kenneth Falck",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "request": 0,
+    "response": 1,
+    "error": 2
+  },
+  "resources": {
+    "media": []
+  }
+}
