@@ -11,7 +11,14 @@
   "appKeys": {
     "request": 0,
     "response": 1,
-    "error": 2
+    "error": 2,
+    "title": 3,
+    "blocktag": 4,
+    "tabletag": 5,
+    "texttag": 6,
+    "linktag": 7,
+    "endresponse": 8,
+    "goahead": 9
   },
   "resources": {
     "media": []
